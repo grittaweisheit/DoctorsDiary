@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stations">
+        <item>Aral</item>
+        <item>Shell</item>
+        <item>Total</item>
+        <item>BP</item>
+        <item>Agip</item>
+        <item>Andere</item>
+    </string-array>
+</resources>

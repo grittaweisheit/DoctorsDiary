@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Gritt App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_history">History</string>
+    <string name="date">Datum (tt.mm.jjjj)</string>
+    <string name="kilometers">Kilometerstand</string>
+    <string name="location">Ort</string>
+    <string name="tankted">getankte Liter</string>
+    <string name="hello">Einträge</string>
+    <string name="arrival_time">Ankunftszeit</string>
+    <string name="departure_time">Abfahrtszeit</string>
+    <string name="prize">Bezahlt</string>
+    <string name="prizePL">Preis pro Liter</string>
+    <string name="station">Tankstelle</string>
+    <string name="addition">Ergänzungen</string>
+    <string name="aral">Aral</string>
+    <string name="shell">Shell</string>
+    <string name="andere">Andere</string>
+    <string name="bp">BP</string>
+    <string name="total">Total</string>
+    <string name="agip">Agip</string>
+    <string name="dbtank">Tankeinträge</string>
+    <string name="cab_delete">Eintrag löschen</string>
+    <string name="cab_change">Eintrag änsern</string>
+    <string name="welcome">Kira\'s Diary</string>
+    <string name="title_activity_gewicht_statistik">GewichtStatistik</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
