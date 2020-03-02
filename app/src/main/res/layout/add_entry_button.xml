@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.FloatingActionButton xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/plusNotiz"
+    app:backgroundTint="@color/colorPrimaryDark"
+    app:fabSize="normal"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="@+id/include1"
+    app:layout_constraintStart_toStartOf="@+id/notizHistoryBack"
+    app:rippleColor="@color/weiß"
+    app:srcCompat="@android:drawable/ic_input_add"
+    style="@style/AddButton"
+    tools:showIn="@layout/notiz_history" />

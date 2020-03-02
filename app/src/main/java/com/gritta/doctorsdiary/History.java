@@ -58,7 +58,7 @@ public class History extends AppCompatActivity {
 
         final String ordnerPfad = Environment.getExternalStorageDirectory().getPath() + "/Backup/";
 
-        ImageButton fab = (ImageButton) findViewById(R.id.plusNotiz1);
+        ImageButton fab = (ImageButton) findViewById(R.id.plusNotiz);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
